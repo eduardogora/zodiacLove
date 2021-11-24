@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/zodiacLove/static/css/main.0b3380e4.chunk.css",
+    "main.js": "/zodiacLove/static/js/main.4b2b98ef.chunk.js",
+    "main.js.map": "/zodiacLove/static/js/main.4b2b98ef.chunk.js.map",
+    "runtime-main.js": "/zodiacLove/static/js/runtime-main.2dab263e.js",
+    "runtime-main.js.map": "/zodiacLove/static/js/runtime-main.2dab263e.js.map",
+    "static/css/2.a95be28f.chunk.css": "/zodiacLove/static/css/2.a95be28f.chunk.css",
+    "static/js/2.a65d3464.chunk.js": "/zodiacLove/static/js/2.a65d3464.chunk.js",
+    "static/js/2.a65d3464.chunk.js.map": "/zodiacLove/static/js/2.a65d3464.chunk.js.map",
+    "static/js/3.4788ac87.chunk.js": "/zodiacLove/static/js/3.4788ac87.chunk.js",
+    "static/js/3.4788ac87.chunk.js.map": "/zodiacLove/static/js/3.4788ac87.chunk.js.map",
+    "index.html": "/zodiacLove/index.html",
+    "static/css/2.a95be28f.chunk.css.map": "/zodiacLove/static/css/2.a95be28f.chunk.css.map",
+    "static/css/main.0b3380e4.chunk.css.map": "/zodiacLove/static/css/main.0b3380e4.chunk.css.map",
+    "static/js/2.a65d3464.chunk.js.LICENSE.txt": "/zodiacLove/static/js/2.a65d3464.chunk.js.LICENSE.txt",
+    "static/media/LogoColor.4089d325.png": "/zodiacLove/static/media/LogoColor.4089d325.png",
+    "static/media/acuario.6111ab10.jpg": "/zodiacLove/static/media/acuario.6111ab10.jpg",
+    "static/media/aries.5b878056.jpg": "/zodiacLove/static/media/aries.5b878056.jpg",
+    "static/media/cancer.50f510e5.jpg": "/zodiacLove/static/media/cancer.50f510e5.jpg",
+    "static/media/capricornio.3afe375a.jpg": "/zodiacLove/static/media/capricornio.3afe375a.jpg",
+    "static/media/escorpio.73871b98.jpg": "/zodiacLove/static/media/escorpio.73871b98.jpg",
+    "static/media/geminis.31693e20.jpg": "/zodiacLove/static/media/geminis.31693e20.jpg",
+    "static/media/leo.445871ea.jpg": "/zodiacLove/static/media/leo.445871ea.jpg",
+    "static/media/libra.15524353.jpg": "/zodiacLove/static/media/libra.15524353.jpg",
+    "static/media/piscis.a8d95189.jpg": "/zodiacLove/static/media/piscis.a8d95189.jpg",
+    "static/media/sagitario.a27ceb7d.jpg": "/zodiacLove/static/media/sagitario.a27ceb7d.jpg",
+    "static/media/tauro.06a557f6.jpg": "/zodiacLove/static/media/tauro.06a557f6.jpg",
+    "static/media/virgo.d9af7f8d.jpg": "/zodiacLove/static/media/virgo.d9af7f8d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2dab263e.js",
+    "static/css/2.a95be28f.chunk.css",
+    "static/js/2.a65d3464.chunk.js",
+    "static/css/main.0b3380e4.chunk.css",
+    "static/js/main.4b2b98ef.chunk.js"
+  ]
+}
